@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Ejemplo1Interfaz</AssemblyName>
+    <RootNamespace>Ejemplo1Interfaz</RootNamespace>
+  </PropertyGroup>
+
+</Project>
